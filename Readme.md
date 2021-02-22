@@ -1,5 +1,9 @@
 # KOB PIU
 
+| Title | KOBPIU |
+| :---: | :---: |
+| Version | TBD |
+
 ## Abstract
 
 KochiOrgBook public identity utility, an identity network for the city of Kochi. All the DIDs will be hosted upon the identity network. This network which is going to be the 1st layer of ToIP tecnology stack. The first layer is mainly for blockchains and distributed ledgers. The identity utility network is similar to that of Sovrin network.
