@@ -19,7 +19,7 @@ Incubation state.
 
 ## Solution
 In the current situation proving your identity requires more time and effort and also there is lot of security issues.
-KOB Public Identity Utility provides a cryptographically verifiable digital identity for the Citizens and Organizations/Associations in the city of Kochi. These digital identity can be used to prove one's identity and eligibility whenever required. Any associations and digital service provider within the city of Kochi can participate in this network. These identities are independent of any central authority, The participants itself can control their identities. Hyperledger Indy provides tools and libraries to create this digital identity rooted on blockchains that are interoperable across the  city of Kochi.
+KOB Public Identity Utility provides a cryptographically verifiable digital identity for the Citizens and Organizations/Associations in the city of Kochi. These digital identity can be used to prove one's identity and eligibility whenever required. Any associations and digital service provider within the city of Kochi can participate in this network. These identities are independent of any central authority, the participants itself can control their identities. Hyperledger Indy provides tools and libraries to create this digital identity rooted on blockchains that are interoperable across the  city of Kochi.
 
 ## Contributors
 [Anjana M P](https://github.com/Anjana-mp/KOBPIU/blob/master/Readme.md)
