@@ -24,6 +24,7 @@ KOB Public Identity Utility is network layer in which the Citizens and Organizat
 * Maintain financial sustainability of the consortium members without using cryptographic tokens
 * Establish a governing board so that no single organization owns the PIU network.
 * Require adherence to specified open standards and protocols
+
 Hyperledger Indy provides tools and libraries to create this digital identity rooted on blockchains that are interoperable across the  city of Kochi.
 
 
