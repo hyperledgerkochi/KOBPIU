@@ -36,5 +36,5 @@ Hyperledger Indy provides tools and libraries to create this digital identity ro
 TBD
 
 ## Refernces
-*    https://www.edx.org/professional-certificate/linuxfoundationx-developing-blockchain-based-identity-applications
-* www.w3.org/TR/did-core
+* [Blockchain](https://www.edx.org/professional-certificate/linuxfoundationx-developing-blockchain-based-identity-applications)
+* [Decentralized Identifiers](www.w3.org/TR/did-core)
