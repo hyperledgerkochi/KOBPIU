@@ -18,8 +18,7 @@ Individuals and organizations use variety of credentials and documents over the 
 Incubation state.
 
 ## Solution
-In the current situation, proving your identity requires more time and effort and also there is lot of security issues.
-KOB Public Identity Utility act as a network layer in which the citizens and organizations/associations within the city of Kochi can host their verifiable credentials and can perform different transactions within the network. These digital identities can be used to prove one's identity and eligibility whenever required. Any associations and digital service provider within the city of Kochi can participate in this network. These identities are independent of any central authority, the participants themselves can control their identities. This network is associated with a DID Root Namespace that operates under its own Governance Framework. The framework will be:
+In the current situation, proving your identity requires more time and effort. There are a lot of security challenges too. KOB Public Identity Utility acts as a network layer in which the citizens as well as the organizations or associations within the city of Kochi can host their verifiable credentials and perform different transactions within the network. This can be used to prove one's identity and eligibility whenever required. Any associations and digital service provider within the city of Kochi can participate in this network. These identities are independent of any central authority, the participants can control it themselves. This network is associated with a DID Root Namespace that operates under its own Governance Framework. The framework will:
 * Enforce permissioned-writes with contractual instruments that will conform to privacy regulations like GDPR.
 * Maintain financial sustainability of the consortium members without using cryptographic tokens.
 * Establish a governing board so that no single organization owns the PIU network.
