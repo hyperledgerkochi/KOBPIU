@@ -22,7 +22,7 @@ In the current situation, proving your identity requires more time and effort. T
 
 
 ## Contributors
-[Anjana M P](https://github.com/Anjana-mp/KOBPIU/blob/master/Readme.md)
+[Anjana M P](https://github.com/Anjana-mp/KOBPIU)
 
 ## Testing the project
 
