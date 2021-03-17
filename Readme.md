@@ -18,13 +18,7 @@ Individuals and organizations use variety of credentials and documents over the 
 Incubation state.
 
 ## Solution
-In the current situation, proving your identity requires more time and effort. There are a lot of security challenges too. KOB Public Identity Utility acts as a network layer in which the citizens as well as the organizations or associations within the city of Kochi can host their verifiable credentials and perform different transactions within the network. This can be used to prove one's identity and eligibility whenever required. Any associations and digital service provider within the city of Kochi can participate in this network. These identities are independent of any central authority, the participants can control it themselves. This network is associated with a DID Root Namespace that operates under its own Governance Framework. The framework will:
-* Enforce permissioned-writes with contractual instruments that will conform to privacy regulations like GDPR.
-* Maintain financial sustainability of the consortium members without using cryptographic tokens.
-* Establish a governing board so that no single organization owns the PIU network.
-* Require adherence to specified open standards and protocols.
-
-Hyperledger Indy provides tools and libraries to create this digital identity rooted on blockchains that are interoperable across the  city of Kochi.
+In the current situation, proving your identity requires more time and effort. There are a lot of security challenges too. KOB Public Identity Utility acts as a network layer in which the citizens as well as the organizations or associations within the city of Kochi can host their verifiable credentials and perform different transactions within the network. This can be used to prove one's identity and eligibility whenever required. Any associations and digital service provider within the city of Kochi can participate in this network. These identities are independent of any central authority, the participants can control it themselves. This network is associated with a DID Root Namespace that operates under its own Governance Framework. Hyperledger Indy provides tools and libraries to create this digital identity rooted on blockchains that are interoperable across the  city of Kochi.
 
 
 ## Contributors
@@ -35,5 +29,5 @@ Hyperledger Indy provides tools and libraries to create this digital identity ro
 TBD
 
 ## References
-* [Blockchain](https://www.edx.org/professional-certificate/linuxfoundationx-developing-blockchain-based-identity-applications)
+* [Edx-course](https://www.edx.org/professional-certificate/linuxfoundationx-developing-blockchain-based-identity-applications)
 * [Decentralized Identifiers](www.w3.org/TR/did-core)
