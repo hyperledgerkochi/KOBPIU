@@ -20,7 +20,7 @@ Incubation state.
 ## Solution
 In the current situation, proving your identity requires more time and effort. There are a lot of security challenges too. KOB Public Identity Utility acts as a network layer in which the citizens as well as the organizations or associations within the city of Kochi can host their verifiable credentials and perform different transactions within the network. This can be used to prove one's identity and eligibility whenever required. Any associations and digital service provider within the city of Kochi can participate in this network. These identities are independent of any central authority, the participants can control it themselves. This network is associated with a DID Root Namespace that operates under its own Governance Framework. Hyperledger Indy provides tools and libraries to create this digital identity rooted on blockchains that are interoperable across the  city of Kochi.
 ## Useacse
-<img src="images/Usecase.jpg" height=200>
+<img src="images/Usecase.png" height=500 width=500>
 
 
 ## Contributors
