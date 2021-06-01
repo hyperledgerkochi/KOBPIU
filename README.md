@@ -6,7 +6,7 @@
 
 ## Abstract
 
-KochiOrgBook Public Identity Utility is an identity network for the city of Kochi. All the DIDs will be hosted upon this identity network. This network constitutes the 1st layer of [ToIP technology stack](KOBPIU/images/ToIp.png). This first layer contains the DIDs of various citizens and organizations/associations within the city of Kochi. The identity utility network is similar to that of Sovrin network.
+KochiOrgBook Public Identity Utility is an identity network for the city of Kochi. All the DIDs will be hosted upon this identity network. This network constitutes the 1st layer of [ToIP technology stack](images/ToIp.png). This first layer contains the DIDs of various citizens and organizations/associations within the city of Kochi. The identity utility network is similar to that of Sovrin network.
 
 ## Dependent Projects
 Hyperledger Indy
