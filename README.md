@@ -6,7 +6,7 @@
 
 ## Abstract
 
-KochiOrgBook Public Identity Utility is an identity network for the city of Kochi. All the DIDs will be hosted upon this identity network. This network constitutes the 1st layer of ToIP technology stack. This first layer contains the DIDs of various citizens and organizations/associations within the city of Kochi. The identity utility network is similar to that of Sovrin network.
+KochiOrgBook Public Identity Utility is an identity network for the city of Kochi. All the DIDs will be hosted upon this identity network. This network constitutes the 1st layer of [ToIP technology stack](images/ToIp.png). This first layer contains the DIDs of various citizens and organizations/associations within the city of Kochi. The identity utility network is similar to that of Sovrin network.
 
 ## Dependent Projects
 Hyperledger Indy
@@ -19,9 +19,9 @@ Incubation state.
 
 ## Solution
 In the current situation, proving your identity requires more time and effort. There are a lot of security challenges too. KOB Public Identity Utility acts as a network layer in which the citizens as well as the organizations or associations within the city of Kochi can host their verifiable credentials and perform different transactions within the network. This can be used to prove one's identity and eligibility whenever required. Any associations and digital service provider within the city of Kochi can participate in this network. These identities are independent of any central authority, the participants can control it themselves. This network is associated with a DID Root Namespace that operates under its own Governance Framework. Hyperledger Indy provides tools and libraries to create this digital identity rooted on blockchains that are interoperable across the  city of Kochi.
-## Useacse
+## Usecase
+<img src="images/usecase.png" height=600 width=700>
 <img src="images/Usecase.png" height=700 width=700>
-
 
 ## Contributors
 [Anjana M P](https://github.com/Anjana-mp)
